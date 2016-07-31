@@ -1,0 +1,7 @@
+[package]
+name = "byteorder_test"
+version = "0.1.0"
+authors = ["KallDrexx <me@mshapiro.net>"]
+
+[dependencies]
+byteorder = "0.5.3"
